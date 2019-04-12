@@ -1,0 +1,16 @@
+C:\Projects\heynineteen-sample-api\Acme.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.deps.json
+C:\Projects\heynineteen-sample-api\Acme.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.dll
+C:\Projects\heynineteen-sample-api\Acme.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.pdb
+C:\Projects\heynineteen-sample-api\Acme.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\Acme.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.dll
+C:\Projects\heynineteen-sample-api\Acme.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.deps.json
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Domain\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Domain.pdb

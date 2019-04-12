@@ -1,0 +1,16 @@
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.deps.json
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.dll
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.pdb
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.dll
+C:\Projects\heynineteen-sample-api\Acme.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.deps.json
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.Infrastructure.Repositories.pdb

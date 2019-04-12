@@ -1,0 +1,16 @@
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.deps.json
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.dll
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.pdb
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.dll
+C:\Projects\heynineteen-sample-api\Acme.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.deps.json
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\bin\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.pdb
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.AssemblyInfoInputs.cache
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.AssemblyInfo.cs
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.dll
+C:\Projects\heynineteen-sample-api\HeyNineteen.Sample.ApplicationServices\obj\Debug\netcoreapp2.2\HeyNineteen.Sample.ApplicationServices.pdb
